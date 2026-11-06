@@ -2,6 +2,24 @@
 
 Decisions, progress, learnings and key takeaways for the website. Newest at the top.
 
+## 2026-11-06 — Code on GitHub
+
+### Progress
+- The website code is now on GitHub in a **private** repository: https://github.com/djvanstyrum/website (only DJ can see it).
+- Installed on the Mac: Apple's command line developer tools (includes Git) and GitHub CLI (`~/bin/gh`, signed in as djvanstyrum).
+- Commits use DJ's private GitHub "noreply" email, so the real email address isn't stored in the code history.
+
+### Decisions
+- Private repository, only for storing the code. Not putting the site online via GitHub Pages yet (on a free account that would need a public repository).
+
+### How it works from now on
+- After each change, Claude saves a version ("commit") and sends it to GitHub ("push"). Just ask: "save this to GitHub".
+
+### Learnings
+- Git = the tool that keeps track of versions of your files. GitHub = the website where those versions are stored online.
+- A "repository" (repo) is a project folder on GitHub.
+- Signing in to GitHub from the Mac is done once, with a one-time code at github.com/login/device. You never give Claude your password.
+
 ## 2026-11-05 — First version of the website
 
 ### Progress
