@@ -2,6 +2,21 @@
 
 Decisions, progress, learnings and key takeaways for the website. Newest at the top.
 
+## 2026-11-06 — Website is live
+
+### Progress
+- The website is online for everyone at **https://djvanstyrum.github.io/website/** (GitHub Pages).
+- The GitHub repository is now **public** (needed for GitHub Pages on a free account). Anyone can see the code, including CLAUDE.md and Memory.md, so never put secrets in these files.
+
+### How it works from now on
+- Every change that is sent to GitHub ("push") appears on the live site automatically, usually within 1–2 minutes.
+
+### Possible next steps
+- Own domain name (e.g. djvanstyrum.nl) pointing to GitHub Pages.
+
+### Learnings
+- GitHub Pages = free hosting by GitHub: it shows the files of a repository as a website.
+
 ## 2026-11-06 — Code on GitHub
 
 ### Progress
